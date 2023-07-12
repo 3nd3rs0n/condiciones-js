@@ -1,0 +1,19 @@
+#imagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.perro-negro{
+    border: none;
+
+}
+
+.perro-negro-borde{
+    border: 5px solid red;
+}
+
+
+
+  
